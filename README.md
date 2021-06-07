@@ -1,8 +1,9 @@
 # Precio del Combustible en la localidad de Montserrat, Valencia.
-Diferencia de precio en el combustible entre las dos gasolinera de Montserrat, valencia
+Diferencia de precio en el combustible entre las dos gasolinera de Montserrat, Valencia.
 
-Aplicación web desarrollada para uso personal.
-Realizar una consulta de los precios actuales en las diferentes estaciones de sercicios.
+Esta aplicación web ha sido desarrollada para uso personal y ser compartida con la comunidad.
+# Demo: http://combustibles.a4webs.net/
+### Llamada a la API:
 #### La obtención de datos la realizo mediante una llamada a la APi pasandole el {IDMunicipio} mediante Fetch.
 Ejemplo:
 URL: sedeaplicaciones.minetur.gob.es/ServiciosRESTCarburantes/PreciosCarburantes/EstacionesTerrestres/FiltroMunicipio/${IDMunicipio}
